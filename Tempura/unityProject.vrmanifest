@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.tempura.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\GitHub\\IVRC2022_Tempura\\IVRC2022_Tempura\\Tempura\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Tempura [Testing]"
+        }
+      }
+    }
+  ]
+}

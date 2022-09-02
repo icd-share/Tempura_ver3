@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-1.0960052013397217,"y":0.3629697859287262,"z":0.3768196403980255},"rotation":{"x":-0.01369322370737791,"y":-0.7882494330406189,"z":0.01785529963672161,"w":-0.6150957345962524},"size":0.009752643294632435,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-0.6268227696418762,"y":0.4501529037952423,"z":0.29854995012283327},"rotation":{"x":-0.015085344202816487,"y":-0.8860744833946228,"z":0.02934841439127922,"w":-0.46257713437080386},"size":0.009752643294632435,"orthographic":false}
+>>>>>>> Stashed changes
